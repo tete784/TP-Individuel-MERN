@@ -1,0 +1,25 @@
+# Node.js dependencies
+node_modules/
+
+# Build outputs
+build/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Local environment files
+.env
+
+# Editor directories and files
+.idea/
+.vscode/
+.DS_Store
+
+# MacOS-specific
+*.DS_Store
+
+# Temporary files
+*.tmp
+*.swp
